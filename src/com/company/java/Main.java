@@ -1,11 +1,10 @@
 package com.company.java;
 
+import Creational.FactoryDesign.FactoryDesignMain;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        System.out.println("new project ");
-
-
+        FactoryDesignMain.factorydesignMain();
     }
 }
